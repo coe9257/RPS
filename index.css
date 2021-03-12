@@ -1,0 +1,33 @@
+body, html {
+    background-color: black;
+}
+
+h1 {
+    color: White;
+    text-align: center;
+    margin-top: 15%;
+    font-size: 3rem;
+}
+
+button {
+    display: block;
+    padding: 1rem;
+    border-radius: 10%;
+    margin: 10% auto;
+    border: 3px solid white;
+    background-color: black;
+    color: white;
+}
+
+button {
+    font-size: 2rem;
+}
+
+button:hover {
+    cursor: pointer;
+}
+    
+
+a:link {
+    text-decoration: none;
+}

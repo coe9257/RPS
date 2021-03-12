@@ -1,1 +1,0 @@
-This is a Rock Paper Scissors game from the Odin P roject
